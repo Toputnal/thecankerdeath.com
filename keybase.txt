@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/toputnal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.thecankerdeath.com
+  * I am toputnal (https://keybase.io/toputnal) on keybase.
+  * I have a public key ASBKrT2Syf-su5uJ0VZOnum8XQ5SwggOLPwBLuuY-Jky3go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204aad3d92c9ffacbb9b89d1564e9ee9bc5d0e52c2080e2cfc012eeb98f89932de0a",
+      "host": "keybase.io",
+      "kid": "01204aad3d92c9ffacbb9b89d1564e9ee9bc5d0e52c2080e2cfc012eeb98f89932de0a",
+      "uid": "b4e4619251d3ab8c4b9b5078e258f419",
+      "username": "toputnal"
+    },
+    "merkle_root": {
+      "ctime": 1538135409,
+      "hash": "a08ed78b785390ba5ff32c970edf90493059e4998f397bd1028b565ac8fe35a0e61b74623ea190cff3846407d23d0711db9cf84cd405859a5ed986b8dd4d9efb",
+      "hash_meta": "abce145c5365293c6532924144e9edd4c83e5beb9e989d8584b875e60f297a1a",
+      "seqno": 3706121
+    },
+    "service": {
+      "entropy": "kcEmaFwC0IV808Xjr0diInFk",
+      "hostname": "www.thecankerdeath.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.0"
+  },
+  "ctime": 1538135554,
+  "expire_in": 504576000,
+  "prev": "a2b483aeede8296ea5ad8724695350825b3d1abfea6b10ef83cec2f23d88083f",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSq09ksn/rLubidFWTp7pvF0OUsIIDiz8AS7rmPiZMt4Kp3BheWxvYWTESpcCCMQgorSDru3oKW6lrYckaVNQgls9Gr/qaxDvg87C8j2ICD/EICmPBBtp0sof9T3GSOIf+i7xJAUpag0tq8mLELCBWPhPAgHCo3NpZ8RAtI74ohcW3qMI0brMSOKIsZszO7GR9kiB+pBwjgEw42YmgmKUeC+WQnUw+1UM6EszgFHrJ8qyi8ZO7nvqZxCBD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC0Uwqe8vzRz0zEdqOATODr6fcpLW87igmRPzqbV9019o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/toputnal
+
+==================================================================
